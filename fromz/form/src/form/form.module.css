@@ -1,0 +1,36 @@
+.mb{
+    width: 350px;
+    height: 20px;
+    padding: 5px;
+    color: black;
+    text-align: center;
+    align-items: center;
+}
+body{
+    background-image: url(https://img.goodfon.com/wallpaper/big/2/bb/makro-listik-listochek-listya-3841.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    
+}
+
+
+.main{
+    align-items: center;
+    position: absolute;
+    top: 0%;
+    left: 35%;
+    font-size: 25px;
+}
+.btn{
+    color: black;
+    background-color: rgb(69, 69, 136);
+    width: 340px;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 10%;
+}
+
+
+
+
